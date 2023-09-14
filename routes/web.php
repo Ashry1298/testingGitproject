@@ -20,3 +20,9 @@ Route::get('/', function () {
 Route::get('/test', function () {
     echo  'this is the first test for mostafa branch branchbranchbranchbranchbranchbranchbranch  ';
 });
+Route::get('/test2', function () {
+    echo  'this is the first test2 for mostafa branch branchbranchbranchbranchbranchbranchbranch  ';
+});
+Route::get('/test2', function () {
+    echo  'this is the first test2 for mostafa branch branchbranchbranchbranchbranchbranchbranch  ';
+});
